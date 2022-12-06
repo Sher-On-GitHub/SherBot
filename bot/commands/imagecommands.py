@@ -50,5 +50,22 @@ class Image(commands.Cog):
         await interaction.edit_original_message(embed=embed)
         print("Command executed successfully.")
 
+        @nextcord.slash_command(name="meme", description="Displays a random meme.")
+        async def meme(self, interaction:Interaction):
+            await interaction.response.defer()
+            data = requests.get("https://www.reddit.com/r/memes/random/.json")
+            data = data.json()
+            get = data
+            result = get["url"]
+            embed = nextcord.Embed(
+                title="Here's a meme!",
+                color=nextcord.Color.green()
+            )
+            embed.set_image(url=result)
+            embed.timestamp = datetime.datetime.now()
+            embed.set_footer(text = "SherBot", icon_url = "https://cdn.discordapp.com/attachments/1031828036422733825/1044698179179909290/abitgreener.png")
+            await interaction.edit_original_message(embed=embed)
+            print("Command executed successfully.")    
+
 def setup(bot):
     bot.add_cog(Image(bot))
