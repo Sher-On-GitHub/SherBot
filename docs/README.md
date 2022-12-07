@@ -46,9 +46,9 @@ Public release of SherBot has not yet arrived, but as soon as it does, a link to
 * Pre-Release v1.0-beta.1
     * Released on December 4th 2022
     * First pre-release version of SherBot
-    * Find the full changelog at: https://github.com/Sheraddo/SherBot/releases/tag/v1.0-beta.1
+    * Find the full changelogs [here.](https://github.com/Sheraddo/SherBot/releases/tag/v1.0-beta.1)
 
 * Pre-Release v1.0-beta.2
     * Released on December 7th, 2022
     * Second pre-release version of SherBot
-    * Find the full changelog at: https://github.com/Sheraddo/SherBot/releases/tag/v1.0-beta.2
+    * Find the full changelogs [here.](https://github.com/Sheraddo/SherBot/releases/tag/v1.0-beta.2)
