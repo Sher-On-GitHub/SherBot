@@ -1,3 +1,4 @@
+level.db
 .env
 bot/commands/__pycache__
 bot/events/__pycache__
