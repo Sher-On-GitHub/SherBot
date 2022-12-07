@@ -1,11 +1,4 @@
 {
-  "Informative Commands": {
-    "help": "Displays this message!",
-    "userinfo": "Provides information on a user.",
-    "serverinfo": "Provides information about the guild.",
-    "botinfo": "Provides information about SherBot."
-  },
-
   "Moderation Commands": {
     "kick": "Kicks a user.",
     "ban": "Bans a user.",
@@ -18,6 +11,13 @@
     "cat": "Displays an image containing one or more cats.",
     "dog": "Displays an image containing one or more dogs.",
     "meme": "Displays a meme."
+  },
+
+  "Informative Commands": {
+    "help": "Displays this message!",
+    "userinfo": "Provides information on a user.",
+    "serverinfo": "Provides information about the guild.",
+    "botinfo": "Provides information about SherBot."
   },
 
   "Math Commands": {
