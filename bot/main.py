@@ -1,6 +1,7 @@
 from nextcord import *
 from nextcord.abc import GuildChannel
-import nextcord, os
+import nextcord
+import random, os, json, datetime, time, asyncio, aiosqlite
 from nextcord.ext import commands, tasks
 from nextcord.ui import Button, View, Select
 from os import environ
