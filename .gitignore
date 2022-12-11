@@ -1,6 +1,6 @@
 level.db
 .env
-bot/commands/__pycache__
-bot/events/__pycache__
-bot/levelsystem/__pycache__
-bot/__pycache__
+commands/__pycache__
+events/__pycache__
+levelsystem/__pycache__
+__pycache__
