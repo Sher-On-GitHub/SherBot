@@ -22,3 +22,5 @@ for fn in os.listdir("./events"):
 for fn in os.listdir("./levelsystem"):
     if fn.endswith(".py"):
         bot.load_extension(f"levelsystem.{fn[:-3]}")
+
+bot.run(token)
