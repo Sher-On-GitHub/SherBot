@@ -1,9 +1,7 @@
 from nextcord import *
-from nextcord.abc import GuildChannel
 import nextcord
 import datetime, time, humanfriendly
-from nextcord.ext import commands, tasks
-from nextcord.ui import Button, View, Select
+from nextcord.ext import commands
 global startTime
 startTime = time.time()
 

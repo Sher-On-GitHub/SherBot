@@ -1,7 +1,7 @@
 from nextcord import *
 import nextcord
 import datetime, time
-from nextcord.ext import commands, tasks
+from nextcord.ext import commands
 global startTime
 startTime = time.time()
 

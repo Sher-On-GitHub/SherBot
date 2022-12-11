@@ -1,8 +1,5 @@
-from nextcord import Interaction, SlashOption, ChannelType, Member, Embed, File, ButtonStyle, colour, errors, ApplicationInvokeError, SelectOption, application_command, ApplicationCommandOption
-import nextcord, random, os, json, datetime, time, aiosqlite
-from nextcord.ext import commands, tasks
-from itertools import cycle
-from nextcord.ui import Button, View, Select
+import nextcord, time
+from nextcord.ext import commands
 global startTime
 startTime = time.time()
 

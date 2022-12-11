@@ -1,7 +1,7 @@
 from nextcord import *
 import nextcord, json
 import time
-from nextcord.ext import commands, tasks
+from nextcord.ext import commands
 from nextcord.ui import Button, View, Select
 global startTime
 startTime = time.time()
