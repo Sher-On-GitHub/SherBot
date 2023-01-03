@@ -8,13 +8,7 @@ SherBot is a multipurpose Discord Bot written in Python using the Nextcord API w
 
 ## **How to add to your server**
 
-You can add the SherBot Discord Bot to your server by following these _ easy steps:
-
-1. Join the SherBot Community/Support server [here.](https://discord.gg/5Xe4K8g7kK)
-
-2. At the top of the member list, click on the SherBot bot account, and click "Add to Server".
-
-3. Go through the simple process and you now have the SherBot Discord bot in your server!
+**DISCONTINUED**
 
 ## **Commands**
 
